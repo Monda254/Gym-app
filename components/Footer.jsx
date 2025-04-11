@@ -36,7 +36,7 @@ const Footer = () => {
           <h1 className="font-medium text-xl text-brightRed ">Contact</h1>
           <div className="flex flex-row items-center mt-4">
             <AiTwotonePhone size={20} />
-            <p className="ml-2">+92-309-4795547</p>
+            <p className="ml-2">+254741407159</p>
           </div>
           <div className="flex flex-row items-center mt-2">
             <AiOutlineMail size={20} color="red" />
