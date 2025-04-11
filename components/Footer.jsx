@@ -16,13 +16,13 @@ const Footer = () => {
             </h1>
           </Link>
           <p className="mt-4">
-            The best fitness destination in Lahore, for men and women.
+            The best fitness destination in Nairobi, for men and women.
           </p>
         </div>
         <div className="mt-8 md:mt-0 md:ml-8">
           <h1 className="font-medium text-xl text-brightRed">Address</h1>
           <p className="mt-4">
-            Plot 339 Block R2 Johar Town Lahore, 54000 Pakistan
+            platinum plaza rooftop, nairobi CBD.
           </p>
         </div>
         <div className="mt-8 md:mt-0 md:ml-8">
@@ -40,7 +40,7 @@ const Footer = () => {
           </div>
           <div className="flex flex-row items-center mt-2">
             <AiOutlineMail size={20} color="red" />
-            <p className="ml-2">levelszone@gmail.com</p>
+            <p className="ml-2">elvisgee735@gmail.com</p>
           </div>
         </div>
       </div>
